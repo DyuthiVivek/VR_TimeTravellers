@@ -8,9 +8,9 @@ Metaverse platform delivering an immersive experience of historical events with 
 
 
 # Tech Stack
-Unity
-Convai
-Blender
+1. Unity
+2. Convai
+3. Blender
 
 # Demo Video
 https://drive.google.com/file/d/1Jqj8gTNVfnM0y7EvIXzJoMlsGPhlzGEQ/view
